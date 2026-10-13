@@ -1,0 +1,6 @@
+{
+  "name": "Billing Pro – General Shop Billing App",
+  "description": "Offline-ready billing, GST invoices, inventory management, customer credit ledger (khata), purchases, thermal receipt printing, and reports for retail & grocery stores in India.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
